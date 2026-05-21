@@ -1,5 +1,3 @@
-flow-assurance-wax-precipitation
-
 Modelagem termodinâmica em Python para predição de precipitação de parafinas no Pré-Sal (Parceria PRH-ANP / LRAP-UFRJ).
 
 Python 3.8+ | NumPy | SciPy | Matplotlib | MIT License
