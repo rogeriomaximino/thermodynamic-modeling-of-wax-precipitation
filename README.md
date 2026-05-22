@@ -60,7 +60,7 @@ Descrição: Implementa a otimização não linear dos parâmetros da distribui�
 Como executar
 
 1. Clone o repositório:
-   git clone [https://github.com/rogeriomaximino/thermodynamic-modeling-of-wax-precipitation]
+   git clone https://github.com/rogeriomaximino/thermodynamic-modeling-of-wax-precipitation
 
 2. Instale as dependências:
    pip install -r requirements.txt
